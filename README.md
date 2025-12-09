@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">480</td>
+            <td align="center">481</td>
          </tr>
       </tbody>
    </table>
@@ -440,6 +440,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://www.jaguarlandrovercareers.com/">Jaguar</a>  </li>
+<li><a href="https://www.myjar.app/careers">Jar</a>  </li>
 <li><a href="https://careers.jio.com/">Jio</a>    </li>
 <li><a href="https://jmfl.com/careers">JM Financial</a>  </li>
 <li><a href="https://careers.jpmorgan.com/IN/en/home">JP Morgan</a>  </li>
